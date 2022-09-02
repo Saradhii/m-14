@@ -19,7 +19,7 @@ app.use("/user",UserRoute);
 app.use("/medicine",MedicineRoute);
 //testing
 app.get("/",(req,res)=>{
-  res.send("Mock11 working....")
+  res.send("Mock14 working....")
 })
 
 // starting the server && checking db connection
